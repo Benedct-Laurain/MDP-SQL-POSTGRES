@@ -23,7 +23,7 @@ Commandes utiles psql:
 
 ## Script SQL pour la création des tables et l'insertion des données 
 
-
+[job_board.sql](./job_board.sql)
 
 ## Exercices
 
