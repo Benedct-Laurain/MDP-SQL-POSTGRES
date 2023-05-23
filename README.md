@@ -21,6 +21,7 @@ Commandes utiles psql:
 - `\l` : List of databases
 - `\dn+`: List of schemas
 - `\dt job_board.*`:  détail schema
+- `\d tablename`: show Indexes, Foreign Keys and references...
 - `exit`
 
 ## Script SQL pour la création des tables et l'insertion des données 
