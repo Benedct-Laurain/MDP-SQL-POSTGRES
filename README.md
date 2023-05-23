@@ -4,6 +4,8 @@
 
 ![Capture d’écran 2023-05-22 à 23 32 47](https://github.com/Benedct-Laurain/MDP-SQL-POSTGRES/assets/92828220/5b2e7df7-c54f-49bb-8c87-4d5ae852de1f)
 
+(💡ajouter created_at et updated_at TIMESTAMP)
+
 ## Postgres avec Docker 
 
 ```
